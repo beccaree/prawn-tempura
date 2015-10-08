@@ -1,5 +1,5 @@
 # prawn-tempura
-Microsoft Student Accelator - windows application submission
+Microsoft Student Accelator - C# windows application submission
 
 THE DECIDER
 
